@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mysuite" duration-ms="72" started-at="2020-03-10T09:32:48Z" finished-at="2020-03-10T09:32:48Z">
+    <groups>
+    </groups>
+    <test name="mytest" duration-ms="72" started-at="2020-03-10T09:32:48Z" finished-at="2020-03-10T09:32:48Z">
+      <class name="test.test1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.test1@5034c75a]" name="beforeMethod" is-config="true" duration-ms="16" started-at="2020-03-10T09:32:48Z" finished-at="2020-03-10T09:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:test.test1@5034c75a]" name="f" duration-ms="9" started-at="2020-03-10T09:32:48Z" finished-at="2020-03-10T09:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.test1@5034c75a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-03-10T09:32:48Z" finished-at="2020-03-10T09:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.test1 -->
+      <class name="test.test2">
+        <test-method status="PASS" signature="f()[pri:0, instance:test.test2@396a51ab]" name="f" duration-ms="0" started-at="2020-03-10T09:32:48Z" finished-at="2020-03-10T09:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- test.test2 -->
+    </test> <!-- mytest -->
+  </suite> <!-- mysuite -->
+</testng-results>
